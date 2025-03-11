@@ -1,1 +1,1 @@
-# movie-gerne-classificaton
+# Movie-genre-classification
